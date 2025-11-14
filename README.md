@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosjin&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosjin&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mosjin/mosjin/blob/output/github-snake-dark.svg" />
