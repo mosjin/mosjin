@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosjin&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosjin&layout=compact&theme=dark)](https://github.com/anuragkumar10/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mosjin/mosjin/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mosjin/mosjin/blob/output/github-snake.svg" />
